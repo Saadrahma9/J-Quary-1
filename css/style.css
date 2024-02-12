@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+}
+.container {
+  top: 100px;
+}
+.duplicate {
+  margin-top: 50px;
+  position: relative;
+  padding-right: 70px;
+}
+.duplicate .btn_remove {
+  position: absolute;
+  margin-left: 185px;
+}
